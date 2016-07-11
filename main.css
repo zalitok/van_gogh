@@ -1,0 +1,56 @@
+.container{
+	width: 1000px;
+	margin:auto;
+	font-family: Open Sans;
+	color: #555;
+}
+
+h1{
+	font-size: 40;
+	color: #27bdbe;
+	text-align: center;
+}
+
+hr{
+	height: 0px;
+	border: 0px;
+	border-top: 1px solid #777;
+	margin: 20px 0;
+}
+
+h2{
+	margin-top: 40px;
+	color: #555;
+	text-align: center;
+}
+
+.img{
+	display: block;
+	margin: auto; 
+	margin-top: 30px;
+}
+
+hr{
+	margin: 30px;
+}
+
+.columns{
+	column-count: 2;
+	column-gap: 2em;
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+.img-left{
+	float: left;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 15px;
+}
+
+.img-right{
+	float: right;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 15px;
+}
